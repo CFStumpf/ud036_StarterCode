@@ -2,7 +2,7 @@ import fresh_tomatoes
 import media
 
 north_by_northwest = media.Movie("North by Northwest", "A man fights a case of mistaken identity.",
-                                 "https://upload.wikimedia.org/wikipedia/commons/8/83/Northbynorthwest1.jpg"
+                                 "https://upload.wikimedia.org/wikipedia/commons/8/83/Northbynorthwest1.jpg",
                                  "https://www.youtube.com/watch?v=qk0GbTMMbP0")
 
 fight_club = media.Movie("Fight Club", "Mischief, Mayhem, Soap.",
