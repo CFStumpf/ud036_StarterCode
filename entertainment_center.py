@@ -1,6 +1,8 @@
+#import associated python files
 import fresh_tomatoes
 import media
 
+#create class instances of each movie
 north_by_northwest = media.Movie("North by Northwest", "A man fights a case of mistaken identity.",
                                  "https://upload.wikimedia.org/wikipedia/commons/8/83/Northbynorthwest1.jpg",
                                  "https://www.youtube.com/watch?v=qk0GbTMMbP0")
@@ -25,5 +27,7 @@ jurassic_park = media.Movie("Jurassic Park", "An adventure 65 million years in t
                             "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
                             "https://www.youtube.com/watch?v=lc0UehYemQA")
 
+#create the array "movies" in order to run site
 movies = [north_by_northwest, fight_club, oceans_11, the_prestige, hail_caesar, jurassic_park]
+#launch movies page
 fresh_tomatoes.open_movies_page(movies)
