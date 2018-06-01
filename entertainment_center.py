@@ -25,7 +25,7 @@ hail_caesar = media.Movie("Hail, Caesar!", "Cohen brothers comedy set in Hollywo
 
 jurassic_park = media.Movie("Jurassic Park", "An adventure 65 million years in the making",
                             "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
-                            "https://www.youtube.com/watch?v=lc0UehYemQA")
+                            "https://www.youtube.com/watch?v=Du87BUiTDso")
 
 #create the array "movies" in order to run site
 movies = [north_by_northwest, fight_club, oceans_11, the_prestige, hail_caesar, jurassic_park]
