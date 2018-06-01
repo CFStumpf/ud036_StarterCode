@@ -37,5 +37,6 @@ jurassic_park = media.Movie(
 # create the array "movies" in order to run site
 movies = [north_by_northwest, fight_club, oceans_11,
           the_prestige, hail_caesar, jurassic_park]
+
 # launch movies page
 fresh_tomatoes.open_movies_page(movies)
