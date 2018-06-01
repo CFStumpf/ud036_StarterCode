@@ -6,7 +6,7 @@ import media
 north_by_northwest = media.Movie(
     "North by Northwest",
     "A man fights a case of mistaken identity.",
-    "https://upload.wikimedia.org/wikipedia/commons/8/83/Northbynorthwest1.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/8/83/Northbynorthwest1.jpg",  # noqa
     "https://www.youtube.com/watch?v=qk0GbTMMbP0")
 
 fight_club = media.Movie(
@@ -16,7 +16,7 @@ fight_club = media.Movie(
 
 oceans_11 = media.Movie(
     "Ocean's 11", "11 con men take on a Las Vegas casino.",
-    "https://upload.wikimedia.org/wikipedia/en/6/68/Ocean%27s_Eleven_2001_Poster.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/6/68/Ocean%27s_Eleven_2001_Poster.jpg",  # noqa
     "https://www.youtube.com/watch?v=imm6OR605UI")
 
 the_prestige = media.Movie(
@@ -26,7 +26,7 @@ the_prestige = media.Movie(
 
 hail_caesar = media.Movie(
     "Hail, Caesar!", "Cohen brothers comedy set in Hollywood's Golden Age.",
-    "https://upload.wikimedia.org/wikipedia/en/a/a9/Hail%2C_Caesar%21_poster.png",
+    "https://upload.wikimedia.org/wikipedia/en/a/a9/Hail%2C_Caesar%21_poster.png",  # noqa
     "https://www.youtube.com/watch?v=kMqeoW3XRa0")
 
 jurassic_park = media.Movie(
