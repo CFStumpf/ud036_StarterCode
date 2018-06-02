@@ -3,7 +3,10 @@ import webbrowser
 
 
 class Movie():
-    """This class provides a way to store movie related information"""
+    """Creates the class Movie. This is used to store information about a
+    users favorite movie. Each instance of the class will store the title,
+    storyline, cover image, and trailer of the movie. This allows the user
+    to showcase the movies on an associated website."""
 
     VALID_RATINGS = ["G", "PG", "PG-13", "R"]
 
